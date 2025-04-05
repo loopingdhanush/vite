@@ -11,7 +11,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base:'vite',
+  base:'/',
   server: {
     port:3000,
     proxy:{
