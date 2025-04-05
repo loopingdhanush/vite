@@ -1,0 +1,96 @@
+{
+  "jobs": [
+    {
+      "id": "6",
+      "title": "Vue Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "title": "Google",
+      "description": "Dolor quos qui autem",
+      "salary": "$125K - $150K",
+      "location": "Natus consequuntur o",
+      "company": {
+        "name": "Freeman Cameron Trading",
+        "description": "Aut nisi non commodi",
+        "contactEmail": "wywohisy@mailinator.com",
+        "contactPhone": "+1 (351) 766-6816"
+      },
+      "id": "4e3c"
+    },
+    {
+      "id": "398b",
+      "title": "Zane Burnett",
+      "description": "Dolor quos qui autem",
+      "salary": "$125K - $150K",
+      "location": "Natus consequuntur o",
+      "company": {
+        "name": "Freeman Cameron Trading",
+        "description": "Aut nisi non commodi",
+        "contactEmail": "wywohisy@mailinator.com",
+        "contactPhone": "+1 (351) 766-6816"
+      }
+    },
+    {
+      "id": "91a5",
+      "title": "Jonah Singleton",
+      "description": "Vero quia ea dolorib",
+      "salary": "$60K - $70K",
+      "location": "Deserunt omnis conse",
+      "company": {
+        "name": "Rasmussen Sargent Trading",
+        "description": "Voluptate cillum nec",
+        "contactEmail": "kubag@mailinator.com",
+        "contactPhone": "+1 (269) 936-9151"
+      }
+    },
+    {
+      "id": "4bd7",
+      "title": "Clayton Francis",
+      "description": "Voluptate irure aut ",
+      "salary": "$60K - $70K",
+      "location": "Dolor dolore error p",
+      "company": {
+        "name": "Duke and Barrett LLC",
+        "description": "Dolore fugiat volupt",
+        "contactEmail": "salezyxeh@mailinator.com",
+        "contactPhone": "+1 (227) 269-2159"
+      }
+    },
+    {
+      "id": "0933",
+      "title": "Anthony Vance",
+      "description": "Consequuntur aute la",
+      "salary": "$50K - $60K",
+      "location": "Ipsum incidunt ipsa",
+      "company": {
+        "name": "Ortiz and Dean Associates",
+        "description": "Commodi sit eaque am",
+        "contactEmail": "kywywesa@mailinator.com",
+        "contactPhone": "+1 (141) 802-4401"
+      }
+    },
+    {
+      "id": "cd55",
+      "title": "Zeus Gray",
+      "description": "Quia deleniti veniam",
+      "salary": "$90K - $100K",
+      "location": "Iusto nostrum nemo e",
+      "company": {
+        "name": "Austin Hayes Co",
+        "description": "Voluptas non non ear",
+        "contactEmail": "huvija@mailinator.com",
+        "contactPhone": "+1 (768) 548-5093"
+      }
+    }
+  ]
+}
